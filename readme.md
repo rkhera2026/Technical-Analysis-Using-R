@@ -3,8 +3,7 @@ Technical Analysis Using R
 Name: Rubeena Khera
 Course: Data Science Tools and Techniques
 Assignment: Technical Analysis Using R, Development Phase
-Repository: https://github.com/kherainfo-lgtm/Technical-Analysis-Using-R.git
-
+Link: https://github.com/rkhera2026/Technical-Analysis-Using-R.git
 1. Project Overview
 Several technical analysis indicators have been implemented in R.
 
